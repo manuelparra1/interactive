@@ -1,4 +1,6 @@
 # Interactive Buttons & Sliders -> Plotting
+<img src="panel_screenshot.png" align=left width="900">
+
 ### Python Virtual Environments
 I could only get interactive & dynamic graphs to work in a virtual enviroment with Jupyter Lab. This solves library dependecy issues.  The virtual environments can be easily deleted later.
 #### Create a working directory for Jupyter Lab notebook/github repo. 
