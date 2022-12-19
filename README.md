@@ -1,4 +1,7 @@
 # Interactive Titanic DataFrame
+<video controls="controls" align=left width="500" height="600" src="interactive_titanic_df.mov">
+</video>
+
 ### Python Virtual Environments
 I could only get interactive & dynamic graphs to work in a virtual enviroment with Jupyter Lab. This solves library dependecy issues.  The virtual environments can be easily deleted later.
 #### Create a working directory for Jupyter Lab notebook/github repo. 
