@@ -1,8 +1,7 @@
-<video src="https://github.com/manuelparra1/interactive/raw/main/interactive_titanic_df.mov" controls="controls" style="max-width: 730px;">
-</video>
+![name](https://github.com/manuelparra1/interactive/raw/main/interactive_titanic_df.mov)
 
-<video src="https://github.com/manuelparra1/interactive/blob/29ae410968849836d3371b72407d0ae43ae43156/interactive_titanic_df.mov" controls="controls" style="max-width: 730px;">
-</video>
+![name](https://github.com/manuelparra1/interactive/blob/29ae410968849836d3371b72407d0ae43ae43156/interactive_titanic_df.mov)
+
 # Interactive Buttons & Sliders -> Plotting
 ### Python Virtual Environments
 I could only get interactive & dynamic graphs to work in a virtual enviroment with Jupyter Lab. This solves library dependecy issues.  The virtual environments can be easily deleted later.
