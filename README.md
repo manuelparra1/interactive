@@ -39,3 +39,8 @@ pip3 install panel hvplot seaborn scipy matplotlib pydataset sklearn scikit-lear
 ```bash
 jupyter lab
 ```
+
+##### 6. When Done with Virtual Environment. Return to normal Terminal.
+```bash
+deactivate 
+```
